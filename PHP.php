@@ -1,4 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 <?php
-$name = $_POST['name'];
-echo $name;
-?> 
+echo "Hello";
+?>
+
+</body>
+</html>
